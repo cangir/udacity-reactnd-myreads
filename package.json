@@ -1,0 +1,40 @@
+{
+  "name": "myreads",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://cangir.github.io/udacity-reactnd-myreads",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cangir/udacity-reactnd-myreads"
+  },
+  "author": "Ahmet Cangir",
+  "dependencies": {
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.1.2",
+    "gh-pages": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
