@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d8667964f9ae881bf3719fa113f9dd4",
+    "revision": "1ec44d4c9452225d4be58aa8324dc8cf",
     "url": "/udacity-reactnd-myreads/index.html"
   },
   {
-    "revision": "b67bdab0749810d0dec4",
+    "revision": "24b02021ff28a1b349a9",
     "url": "/udacity-reactnd-myreads/static/css/main.5abe2c9a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udacity-reactnd-myreads/static/js/2.35f435ac.chunk.js"
   },
   {
-    "revision": "b67bdab0749810d0dec4",
-    "url": "/udacity-reactnd-myreads/static/js/main.62f0b236.chunk.js"
+    "revision": "24b02021ff28a1b349a9",
+    "url": "/udacity-reactnd-myreads/static/js/main.6179ea15.chunk.js"
   },
   {
     "revision": "038916c489df0aeef35d",
