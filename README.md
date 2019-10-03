@@ -18,8 +18,8 @@ Here is how you can load the application onto your local machine:
 2. Install the react package using this command: npm install -g create-react-app
 3. Clone this repo or download it as a zip. if you download this as a zip, you will have to extract the files.
 4. In your command prompt/terminal, change directory to the project root.
-5. In order to install, run: `npm install` 
-6. to start the react app, run: `npm start`
+5. In order to install, run: `npm install` or `yarn install` 
+6. to start the react app, run: `npm start` or `yarn start` 
 
 Application will start in your default browser at: `localhost:3000`
 
